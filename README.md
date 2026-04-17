@@ -10,7 +10,7 @@
 
 # 👨‍💻 Samarth Kapdi
 
-### 🚀 Java Backend Developer | Spring Boot | AI Systems | SDE Aspirant
+### 🚀 Java Backend Developer | Spring Boot | AI Systems | Aspiring SDE 
 
 ---
 
@@ -19,9 +19,8 @@
 ```yaml
 role: Java Backend Developer (Spring Boot Focused)
 education: B.Tech CSE @ PIEMR (RGPV) | 2027
-cgpa: 8.13
+sgpa: 8.13
 experience: SDE Intern @ NexisparkX Technologies
-goal: SDE Role (Backend / Full Stack) — 7–10 LPA+
 ```
 
 * ⚙️ I build **scalable backend systems using Java + Spring Boot**
